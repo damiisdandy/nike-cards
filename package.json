@@ -1,0 +1,18 @@
+{
+  "name": "nike-card",
+  "version": "1.0.0",
+  "description": "nike card e-commerce",
+  "main": "index.html",
+  "scripts": {
+    "sass": "node-sass main.scss css/style.css -w"
+  },
+  "keywords": [
+    "sass",
+    "css"
+  ],
+  "author": "damilola jerugba",
+  "license": "MIT",
+  "devDependencies": {
+    "node-sass": "^4.14.1"
+  }
+}
