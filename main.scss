@@ -12,7 +12,7 @@ body {
   font-family: 'Roboto',
     sans-serif;
   box-sizing: border-box;
-  background-color: #eeee;
+  background-color: #121212;
 }
 
 html {
@@ -76,8 +76,8 @@ $card-color: #232323;
     }
 
     &__img {
+      position: relative;
       transition: all 300ms ease;
-      z-index: 2;
       width: 100%;
       height: auto;
 
